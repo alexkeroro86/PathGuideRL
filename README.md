@@ -29,9 +29,9 @@ The device is a NVDIA GPU with CUDA installed on Windows:
 ## Citation
 
 ```
-@misc{Pan2019,
-    author = {Pan, Jen-I},
-    title = {Path Tracing with Q-Learning},
-    year = {2019}
+@misc{pan2019,
+author = {Pan, Jen-I},
+title = {Path Tracing with Q-Learning},
+year = {2019}
 }
 ```
