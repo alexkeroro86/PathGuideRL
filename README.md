@@ -30,8 +30,8 @@ The device is a NVDIA GPU with CUDA installed on Windows:
 
 ```
 @misc{Pan2019,
-	author = {Pan, Jen-I},
-	title = {Path Tracing with Q-Learning},
-	year = {2019},
+    author = {Pan, Jen-I},
+    title = {Path Tracing with Q-Learning},
+    year = {2019}
 }
 ```
