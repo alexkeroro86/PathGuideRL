@@ -23,6 +23,7 @@ The device is a NVDIA GPU with CUDA installed on Windows:
 * [Accelerated Ray Tracing in One Weekend in CUDA](https://developer.nvidia.com/blog/accelerated-ray-tracing-cuda/)
 * [CS 188 at UC Berkeley | Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa19/)
 * [CS 285 at UC Berkeley | Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/)
+* Dahm, Ken, and Alexander Keller. "Learning light transport the reinforced way." ACM SIGGRAPH 2017 Talks. 2017. 1-2.
 * Greger, Gene, et al. "The irradiance volume." IEEE Computer Graphics and Applications 18.2 (1998): 32-43.
 * Vose, Michael D. "A linear algorithm for generating random numbers with a given distribution." IEEE Transactions on software engineering 17.9 (1991): 972-975.
 
